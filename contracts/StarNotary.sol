@@ -16,7 +16,7 @@ contract StarNotary is ERC721 {
     // symbol: Is a short string like 'USD' -> 'American Dollar'
 
     string public name = "StarToken";
-    string public symbol = "STN ";
+    string public symbol = "STN";
 
     
 
