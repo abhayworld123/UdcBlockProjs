@@ -95,9 +95,14 @@ npm run dev
 When you will add a new Rinkeyby Test Network in your Metamask client, you will have to provide:
 
 ERC-721-- StarToken
+
 ERC-721-- Token Symbol STN
+
 Your “Token Address” on the Rinkeby Network
+
 "0xC461682BF9040c1c17762fFEccaEe58538aa4Bd6"
+
+https://rinkeby.etherscan.io/address/0xC461682BF9040c1c17762fFEccaEe58538aa4Bd6
 
 
 | Network Name | New RPC URL | Chain ID |
