@@ -28,7 +28,7 @@ const infuraKey = " ";
 //
 // const fs = require('fs');
 // const mnemonic = fs.readFileSync(".secret").toString().trim();
-const mnemonic = "wrong pause random grief orphan payment price thank settle crumble museum hobby";
+const mnemonic = "right pausi random grief orphan payment price thank horsy settle crumble museum ";
 
 module.exports = {
   /**
